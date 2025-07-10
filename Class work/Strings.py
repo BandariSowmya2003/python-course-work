@@ -85,6 +85,7 @@ a = '''Codegnan
 Destination'''
 print(a.splitlines())
 a = "codegnan-institute"
+print(" ".join("a"))
 print(a.partition("-"))
 print(a.rpartition("-"))
 
