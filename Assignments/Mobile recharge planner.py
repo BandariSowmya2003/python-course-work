@@ -44,30 +44,33 @@ print("\nNetwork Provider: Name - {}, Helpline - {}, Coverage - {}".format(
     network_provider["Coverage Area"]
 ))
 
-Enter User ID: 1011
-Enter Your Name: Ganavi
-Enter Usage Type (Talktime/Data/Both): both
-Enter Monthly Budget (in ₹): 300
-Enter Preferred Features (comma-separated): Unlimited calls,more data
-Enter Available Plans (comma-separated): plan 249,plan299,plan349
-Enter Selected Plan Name: plan299
-Enter Selected Plan Price: ₹249
-Enter Feature Tags of the Plan (comma-separated): VoLTE,Unlimited,4G
-Enter Network Provider Name: Jio
-Enter Provider Helpline Number: 198
-Enter Main Coverage Area: India
+#Input
+#Enter User ID: 1011
+#Enter Your Name: Ganavi
+#Enter Usage Type (Talktime/Data/Both): both
+#Enter Monthly Budget (in ₹): 300
+#Enter Preferred Features (comma-separated): Unlimited calls,more data
+#Enter Available Plans (comma-separated): plan 249,plan299,plan349
+#Enter Selected Plan Name: plan299
+#Enter Selected Plan Price: ₹249
+#Enter Feature Tags of the Plan (comma-separated): VoLTE,Unlimited,4G
+#Enter Network Provider Name: Jio
+#Enter Provider Helpline Number: 198
+#Enter Main Coverage Area: India
 
---- Phone Plan Chooser Details ---
 
-User ID, Name, Usage Type:, 1011, Ganavi, Both
-Budget Usage: 83.00% of Monthly Budget
+#Output
+#--- Phone Plan Chooser Details ---
 
-User: Ganavi
-Selected Plan: plan299
-Plan Price: ₹249.0
-Usage Type: Both
-Preferred Features: Unlimited calls, more data
-Available Plans: plan 249, plan299, plan349
-Feature Tags: 4G, VoLTE, Unlimited
+#User ID, Name, Usage Type:, 1011, Ganavi, Both
+#Budget Usage: 83.00% of Monthly Budget
 
-Network Provider: Name - Jio, Helpline - 198, Coverage - India
+#User: Ganavi
+#Selected Plan: plan299
+#Plan Price: ₹249.0
+#Usage Type: Both
+#Preferred Features: Unlimited calls, more data
+#Available Plans: plan 249, plan299, plan349
+#Feature Tags: 4G, VoLTE, Unlimited
+
+#Network Provider: Name - Jio, Helpline - 198, Coverage - India
