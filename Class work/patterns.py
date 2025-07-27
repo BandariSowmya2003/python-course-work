@@ -15,25 +15,18 @@ for row in range(n):
 #3.
 n=int(input("Enter the size: "))
 for row in range(n):
-    for col in range(n):
-        print("*",end=" ")
-    print()
-
-#4.
-n=int(input("Enter the size: "))
-for row in range(n):
     for col in range(row+1):
         print("*",end=" ")
     print()
  
-#5.
+#4.
 n=int(input("Enter the size: "))
 for row in range(n):
     for col in range(n-row):
         print("*",end=" ")
     print()
 
-#6.
+#5.
 n=int(input("Enter the size: "))
 for row in range(n):
     for spc in range(n-row-1):
@@ -42,7 +35,7 @@ for row in range(n):
         print("*",end=" ")
     print()
 
-#7.
+#6.
 n=int(input("Enter the size: "))
 for row in range(n):
     for spc in range(row):
@@ -51,7 +44,7 @@ for row in range(n):
         print("*",end=" ")
     print()
 
-#8.
+#7.
 n=int(input("Enter the size: "))
 for row in range(n):
     if row<=n//2:
@@ -61,7 +54,7 @@ for row in range(n):
         for col2 in range(n-row):
             print("*",end=" ")
     print()
-#9.
+#8.
 n=int(input("Enter the size: "))
 for row in range(n):
     for col in range(n):
@@ -71,7 +64,7 @@ for row in range(n):
             print(" ",end=" ")
     print()
 
-#10.
+#9.
 n=int(input("Enter the size: "))
 for row in range(n):
     for col in range(n):
@@ -81,7 +74,7 @@ for row in range(n):
             print(" ",end=" ")
     print()
 
-#11.
+#10.
 n=int(input("Enter the size: "))
 for row in range(n):
     for col in range(n):
@@ -91,7 +84,7 @@ for row in range(n):
             print(" ",end=" ")
     print()
 
-#12.
+#11.
 n=int(input("Enter the size: "))
 for row in range(n):
     for col in range(n):
