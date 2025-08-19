@@ -1,4 +1,4 @@
-#1. Printr Numbers from 1 to N(Using for loop)
+#1. Print Numbers from 1 to N(Using for loop)
 N = int(input("Enter N: "))
 for i in range(1, N + 1):
     print(i, end=' ')
