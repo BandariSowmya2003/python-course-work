@@ -45,6 +45,6 @@ futurehour=now+timedelta(hours=3)
 print(future,futureday,futuretime,futurehour.strftime('%A, %B %d, %Y %I:%M:%S %p'))
 
 #Output:
-2025-07-01 2025-08-30 2025-09-09 23:36:36.766573 Wednesday, September 10, 2025 02:06:36 AM
+#2025-07-01 2025-08-30 2025-09-09 23:36:36.766573 Wednesday, September 10, 2025 02:06:36 AM
 
 
